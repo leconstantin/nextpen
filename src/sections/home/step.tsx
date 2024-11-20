@@ -1,6 +1,6 @@
 import Box from "@/components/other/box";
 import Image from "next/image";
-import { PiPause, PiPlay } from "react-icons/pi";
+import { PiPlay } from "react-icons/pi";
 
 export default function Step() {
   return (
@@ -20,7 +20,7 @@ export default function Step() {
                   />
                 </div>
                 <div className="text-[#151035] text-5xl font-bold text-center relative">
-                  Goodbye "lost in translation" and hand-off drama{" "}
+                  Goodbye &quot;lost in translation&quot; and hand-off drama{" "}
                 </div>
               </h2>
             </div>
@@ -47,7 +47,7 @@ export default function Step() {
                       className="object-contain w-32"
                     />
                   </div>
-                  <Box className="mt-28">designers' vision gets lost,</Box>
+                  <Box className="mt-28">designers&apos; vision gets lost,</Box>
                   <div className="pt-14">
                     <Image
                       src="/connectb.svg"
