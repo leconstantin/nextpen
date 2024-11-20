@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 78">
+  <defs>
+    <clipPath id="Vjdf_IuA3hYba" class="frame-clip frame-clip-def">
+      <rect rx="0" ry="0" width="100" height="78"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#Vjdf_IuA3hYba)">
+    <g class="fills">
+      <rect rx="0" ry="0" width="100" height="78" class="frame-background"/>
+    </g>
+    <g class="frame-children">
+      <path d="M0 73.019s22 9 36-2c13-12 1-59.084 41-57.097" class="fills"/>
+      <g class="strokes">
+        <path d="M0 73.019s22 9 36-2c13-12 1-59.084 41-57.097" class="stroke-shape" fill="none" stroke-width="2" stroke="#00d1b8" stroke-opacity="1"/>
+      </g>
+      <ellipse cx="86" cy="13.909" rx="14" ry="13.909" transform="matrix(1 0 0 -1 0 27.819)" class="fills" fill="#00d1b8" fill-opacity="1"/>
+      <path d="M77.698 13.916h14.058" class="fills"/>
+      <g class="strokes">
+        <g class="stroke-shape">
+          <defs>
+            <marker refX="2" fill-opacity="1" orient="auto-start-reverse" id="Vjdf_IuA3hYbb" viewBox="0 0 3 6" fill="#fff" refY="3" markerWidth="8.5" markerHeight="8.5">
+              <path d="M.5.5L3 3 .5 5.5 0 5l2-2-2-2z"/>
+            </marker>
+          </defs>
+          <path d="M77.698 13.916h14.058" fill="none" stroke-width="2.787" stroke="#fff" stroke-opacity="1" marker-end="url(#Vjdf_IuA3hYbb)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

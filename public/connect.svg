@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 105 67">
+  <defs>
+    <clipPath id="sh0bVu_gg7BHa" class="frame-clip frame-clip-def">
+      <rect rx="0" ry="0" width="105" height="67"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#sh0bVu_gg7BHa)">
+    <g class="fills">
+      <rect rx="0" ry="0" width="105" height="67" class="frame-background"/>
+    </g>
+    <g class="frame-children">
+      <path d="M0 4.715s16-7 31-1c16 7 14 51 54 49" class="fills"/>
+      <g class="strokes">
+        <path d="M0 4.715s16-7 31-1c16 7 14 51 54 49" class="stroke-shape" fill="none" stroke-width="2" stroke="#00d1b8" stroke-opacity="1"/>
+      </g>
+      <circle cx="91" cy="52.715" r="14" class="fills" fill="#00d1b8" fill-opacity="1"/>
+      <path d="M82.698 52.709h14.058" class="fills"/>
+      <g class="strokes">
+        <g class="stroke-shape">
+          <defs>
+            <marker refX="2" fill-opacity="1" orient="auto-start-reverse" id="sh0bVu_gg7BHb" viewBox="0 0 3 6" fill="#fff" refY="3" markerWidth="8.5" markerHeight="8.5">
+              <path d="M.5.5L3 3 .5 5.5 0 5l2-2-2-2z"/>
+            </marker>
+          </defs>
+          <path d="M82.698 52.709h14.058" fill="none" stroke-width="2.787" stroke="#fff" stroke-opacity="1" marker-end="url(#sh0bVu_gg7BHb)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
